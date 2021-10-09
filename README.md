@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pro-Othman-98
 - 👀 I’m interested in software development & computer technology
-- 🌱 I’m currently learning C++ & Qt
+- 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on programers teams
 
 <!---
